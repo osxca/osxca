@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @osxca
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and more specifically Python for Data Science
-- 💞️ I’m looking to collaborate on projects in Python
+- 💞️ I’m seeking to collaborate on projects in Python
 - 📫 How to reach me penavideaux.oscar@gmail.com
 
 <!---
